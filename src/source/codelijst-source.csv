@@ -1,4 +1,4 @@
-uri,type,_topConceptOf,inScheme,prefLabel,notation,definition,variabele,drager,Parameter Drager Omschrijving,waardebepaling,Parameter Soort Waardebepaling Omschrijving,Parameter Soort Waardebepaling Type Code,Parameter Soort Waardebepaling Type Omschrijving
+uri,type,topConceptOf,inScheme,prefLabel,notation,definition,variabele,drager,Parameter Drager Omschrijving,waardebepaling,Parameter Soort Waardebepaling Omschrijving,Parameter Soort Waardebepaling Type Code,Parameter Soort Waardebepaling Type Omschrijving
 conceptscheme:parameter,skos:ConceptScheme,,,conceptschema parameter,,,,,,,,,
 conceptscheme:waardebepaling,skos:ConceptScheme,,,conceptschema waardebepaling,,,,,,,,,
 conceptscheme:drager,skos:ConceptScheme,,,conceptschema drager,,,,,,,,,
