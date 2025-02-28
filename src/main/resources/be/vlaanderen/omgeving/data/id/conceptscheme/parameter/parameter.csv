@@ -1,0 +1,4 @@
+id,type,prefLabel
+https://data.omgeving.vlaanderen.be/id/conceptscheme/drager,http://www.w3.org/2004/02/skos/core#ConceptScheme,conceptschema drager
+https://data.omgeving.vlaanderen.be/id/conceptscheme/parameter,http://www.w3.org/2004/02/skos/core#ConceptScheme,conceptschema parameter
+https://data.omgeving.vlaanderen.be/id/conceptscheme/waardebepaling,http://www.w3.org/2004/02/skos/core#ConceptScheme,conceptschema waardebepaling

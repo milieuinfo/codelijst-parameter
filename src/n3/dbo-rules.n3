@@ -1,0 +1,7 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix par: <https://data.omgeving.vlaanderen.be/ns/parameter#>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+
+
+{ ?x par:variabele ?y. ?x a par:Parameter }  => { ?y a dbo:ChemicalCompound }.
+
